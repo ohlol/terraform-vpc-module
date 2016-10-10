@@ -1,0 +1,3 @@
+terraform-bootstrapped_instance-module:
+  git: git@github.com:ohlol/terraform-bootstrapped_instance-module.git
+  branch: develop

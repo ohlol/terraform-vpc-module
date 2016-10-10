@@ -1,0 +1,15 @@
+AllCops:
+  Exclude:
+    - foodcritic-rules/**/*
+
+Style/StringLiterals:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
